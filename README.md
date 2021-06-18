@@ -1,1 +1,1 @@
-# RockPaperScissorsGame
+# rock-paper-scissor-boilerplate
